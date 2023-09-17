@@ -26,7 +26,7 @@ jobs:
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
         id: run_msbuild
-        run: msbuild .\ExceptionHW.sln
+        run: msbuild .\ExeptionHW.sln
       
       - name: Setup VSTest and add to PATH
         env:
