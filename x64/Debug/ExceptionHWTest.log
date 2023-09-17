@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ExeptionHW.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ExceptionHWTest.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\any(13): warning STL4038: The contents of <any> are available only with C++17 or later.
+  ExceptionHWTest.vcxproj -> C:\Users\User\Documents\GitHub\ExeptionHW\x64\Debug\ExceptionHWTest.dll
